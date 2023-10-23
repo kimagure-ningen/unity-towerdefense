@@ -4,7 +4,7 @@ Unity 3D project, low poly, tower defense game. (Run in Unity 2020.3.15f2)
 <br>
 Started on October of 2020.
 <br>
-Project discontinued in September of 2021.
+Project completed in September of 2021.
 <br>
 ## Project Images
 In-Game Screen 1           |  In-Game Screen 2     |  In-Game Screen 3
